@@ -5,7 +5,7 @@ description = "A sophisticated Python framework for creating intelligent digital
 requires-python = ">=3.11"
 dependencies = [
     "composio-core>=0.6.7",
-    "composio-openai==0.6.7",
+    "composio-openai==0.6.9",
     "flask-login>=0.6.3",
     "flask-wtf>=1.2.2",
     "oauthlib>=3.2.2",
